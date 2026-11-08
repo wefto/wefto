@@ -4,7 +4,7 @@
 
 # wefto
 
-**software developer · minecraft enthusiast · builder**
+**software developer · minecraft enthusiast**
 
 </div>
 
