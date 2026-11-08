@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./e0e8c29155a733cdb0bf1dde7452f751.gif" />
+<img src="./c5806667e5e6b5a9838839d50359b6af.gif" />
 
-# swetier
+# wefto
 
 **software developer · minecraft enthusiast · builder**
 
@@ -25,13 +25,3 @@ Most of my projects revolve around **Minecraft, Java, TypeScript, JavaScript, an
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-111?logo=node.js&logoColor=5FA04E)
 ![Git](https://img.shields.io/badge/Git-111?logo=git&logoColor=F05032)
-
-</div>
-
-### working on
-
-```text
-Minecraft      → clients, mods & custom systems
-Discord        → bots & integrations
-Backend        → APIs, databases & infrastructure
-Experiments    → whatever seems interesting
